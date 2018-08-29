@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/fangwei/reactnative/App/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/fangwei/.android/build-cache/763f1dca38d36bfc808f25ba52854896d4f59a2f/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/fangwei/reactnative/App/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/fangwei/.android/build-cache/763f1dca38d36bfc808f25ba52854896d4f59a2f/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/fangwei/reactnative/App/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/fangwei/.android/build-cache/763f1dca38d36bfc808f25ba52854896d4f59a2f/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/fangwei/reactnative/App/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/fangwei/.android/build-cache/763f1dca38d36bfc808f25ba52854896d4f59a2f/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]
